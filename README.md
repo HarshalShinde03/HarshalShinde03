@@ -14,24 +14,24 @@
 ## 💻 Tech Stack
 - 💻 &nbsp;
   [Python]
-  [Java]
-  [C]
+  &nbsp;[Java]
+  &nbsp;[C]
 - 🌐 &nbsp;
   [HTML]
-  [CSS]
+  &nbsp;[CSS]
 - 🛢 &nbsp;
   [MySQL]
-  [Oracle]
+  &nbsp;[Oracle]
 - ⚙️ &nbsp;
   [Git]
-  [GitHub]
+  &nbsp;[GitHub]
 - 🔧 &nbsp;
   [Pycharm]
-  [IntelliJ IDEA]
-  [Android Studio]
+  &nbsp;[IntelliJ IDEA]
+  &nbsp;[Android Studio]
 
 ## 🤝 Connect with me 
-- [Gmail](mailto:harsh.shinde70@gmail.com) -harsh.shinde70@gmail.com <br/>
+- Gmail  -(mailto:harsh.shinde70@gmail.com)harsh.shinde70@gmail.com <br/>
 - Phone - +919309857941 <br/>
 
 ## 🌐 Socials
