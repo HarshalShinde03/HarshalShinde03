@@ -31,7 +31,7 @@
   &nbsp;[Android Studio]
 
 ## 🤝 Connect with me 
-- Gmail  -(mailto:harsh.shinde70@gmail.com)harsh.shinde70@gmail.com <br/>
+- [Gmail](mailto:harsh.shinde70@gmail.com) -harsh.shinde70@gmail.com <br/>
 - Phone - +919309857941 <br/>
 
 ## 🌐 Socials
