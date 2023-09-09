@@ -1,7 +1,7 @@
-<h1 align="center"> Hallo , <img src="https://media.tenor.com/QG65z_UQSCgAAAAj/jorrparivar-digital-pratik.gif" 
+<h1 align="center"> Hallo  <img src="https://media.tenor.com/QG65z_UQSCgAAAAj/jorrparivar-digital-pratik.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Harshal Shinde</h1>
+         width="45" /> &nbsp;&nbsp; I'm Harshal Shinde</h1>
          
 # 💫 About Me :
 - 😄 &nbsp; Pronouns: He/His
