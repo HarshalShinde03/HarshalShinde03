@@ -1,4 +1,4 @@
-<h1 align="center"> Hallo , <img src="https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" 
+<h1 align="center"> Hallo , <img src="https://media.tenor.com/QG65z_UQSCgAAAAj/jorrparivar-digital-pratik.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Harshal Shinde</h1>
