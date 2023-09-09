@@ -17,6 +17,7 @@
   [Python]
   &nbsp;[Java]
   &nbsp;[C]
+  &nbsp;[JavaScript]
 - 🌐 &nbsp;
   [HTML]
   &nbsp;[CSS]
