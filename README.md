@@ -16,8 +16,12 @@
 - 💻 &nbsp;
   [Python]
   &nbsp;[Java]
+  &nbsp;[Java 8]
+  &nbsp;[Spring Boot]
+  &nbsp;[Hibernate]
   &nbsp;[C]
   &nbsp;[JavaScript]
+  &nbsp;[ReactJS]
 - 🌐 &nbsp;
   [HTML]
   &nbsp;[CSS]
