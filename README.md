@@ -35,6 +35,7 @@
   [Pycharm]
   &nbsp;[IntelliJ IDEA]
   &nbsp;[Android Studio]
+  &nbsp;[VS Code]
 
 ## 🤝 Connect with me 
 - [Gmail-](mailto:harsh.shinde70@gmail.com) harsh.shinde70@gmail.com
