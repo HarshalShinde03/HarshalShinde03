@@ -25,6 +25,7 @@
 - 🌐 &nbsp;
   [HTML]
   &nbsp;[CSS]
+  &nbsp;[Tailwind CSS]
 - 🛢 &nbsp;
   [MySQL]
   &nbsp;[Oracle]
