@@ -22,6 +22,7 @@
   &nbsp;[C]
   &nbsp;[JavaScript]
   &nbsp;[ReactJS]
+  &nbsp;[NodeJS]
 - 🌐 &nbsp;
   [HTML]
   &nbsp;[CSS]
