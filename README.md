@@ -41,6 +41,7 @@
 
 ## 🤝 Connect with me 
 - [Gmail-](mailto:harsh.shinde70@gmail.com) harsh.shinde70@gmail.com
+- [Gmail-](mailto:harsh.shinde70@gmail.com) harshalshinde70@outlook.com
 - Phone - +919309857941 <br/>
 
 ## 🌐 Socials
