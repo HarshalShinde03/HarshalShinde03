@@ -45,7 +45,6 @@
 - Phone - +919309857941 <br/>
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harshshinde_70/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshal-shinde-7374a1227/)
 
 ⭐️ From [Harshal Shinde](https://github.com/HarshalShinde03)
